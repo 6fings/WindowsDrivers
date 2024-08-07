@@ -1,0 +1,23 @@
+﻿  Building '6Fings' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\6Fings.inf
+  Stamping [Version] section with DriverVer=07/21/2024,15.13.35.116
+C:\Users\arpit\Desktop\Windows Drivers Youtube\Demo Youtube\6Fings\6Fings\6Fings.inf(24-24): warning 2083: Section [standard.ntamd64.10.0...16299] not referenced or used.
+  6fings.c
+  6Fings.vcxproj -> C:\Users\arpit\Desktop\Windows Drivers Youtube\Demo Youtube\6Fings\x64\Release\6Fings.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\arpit\Desktop\Windows Drivers Youtube\Demo Youtube\6Fings\x64\Release\6Fings.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\arpit\Desktop\Windows Drivers Youtube\Demo Youtube\6Fings\x64\Release\6Fings\6fings.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\arpit\Desktop\Windows Drivers Youtube\Demo Youtube\6Fings\x64\Release\6Fings\6fings.cat
+  
