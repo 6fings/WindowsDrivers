@@ -1,0 +1,6 @@
+﻿  6FingsSrvc.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  6FingsSrvc.vcxproj -> C:\Users\arpit\Desktop\Windows Drivers Youtube\Commit\Windows_Drivers_Basics\Lesson3\Service\6FingsSrvc\x64\Release\6FingsSrvc.exe
